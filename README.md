@@ -1,6 +1,6 @@
 
 
-Hi, my name is Haseebullah Kalwar, and I am Developer of Nexus Cloud Application.
+Hi, my name is Haseebullah Kalwar, and I developed Nexus Cloud Application.
 
 Link to application: https://play.google.com/store/apps/details?id=com.unit52.newsapp&hl=en_US&gl=US.
 
